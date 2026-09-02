@@ -196,7 +196,7 @@ The model uses relationships between dimension and fact tables to allow filterin
 
 ### Detailed Dashboard
 
-![Dashboard Detailed View](Lead Conversion Funnel Dashboard.jpg)
+![Dashboard Detailed View](lead_conversion_funnel_dashboard.jpg)
 
 ---
 
